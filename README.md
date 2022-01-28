@@ -18,4 +18,4 @@ The measures computed during training include:
 - Path norm [https://arxiv.org/abs/1506.02617]
 - PAC-Bayesian flatness [https://arxiv.org/abs/1703.11008]
 
-For a more exhaustive list see the theis at https://github.com/le-big-mac/msc_diss.
+For a more exhaustive list see the thesis at https://github.com/le-big-mac/msc_diss.
